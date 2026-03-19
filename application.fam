@@ -1,0 +1,12 @@
+App(
+    appid="car_jacker",
+    name="Car Jacker",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="carjacker_app",
+    stack_size=4 * 1024,
+    fap_category="Games",
+    fap_version="1.1",
+    fap_description="Cyberpunk Sasquatch scanner.",
+    fap_author="RocketGod",
+    fap_weburl="https://betaskynet.com",
+)
